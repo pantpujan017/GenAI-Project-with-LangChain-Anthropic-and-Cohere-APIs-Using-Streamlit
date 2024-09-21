@@ -9,8 +9,3 @@ The CodeGPT Q&A Engine leverages AI to provide quick answers to frequently asked
 - AI-powered question answering
 - Customizable knowledge base from CSV
 - Fast and efficient retrieval of information
-
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/repo-name.git

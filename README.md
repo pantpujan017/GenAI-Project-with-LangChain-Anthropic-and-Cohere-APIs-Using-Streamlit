@@ -1,6 +1,6 @@
 # CodeGPT Q&A Engine
 
-![Project Logo](C:\Users\ACER\Pictures\Screenshots)
+![Project Logo](Screenshot 2024-09-21 115618.png)
 
 ## Overview
 The CodeGPT Q&A Engine leverages AI to provide quick answers to frequently asked questions based on a curated knowledge base.
